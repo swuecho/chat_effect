@@ -2,7 +2,7 @@
 
 Basic LLM workflow with tracing and visualization. The converstation to LLM is add to `chat` database.
 
-the workflow is written using TS(with Effect). the UI is tempo and Chat
+the workflow is written using TS(with Effect). The UI is from tempo and Chat
 
 
 ![image](https://github.com/swuecho/chat_effect/assets/666683/aee981a5-a289-4b51-ae82-be0d1d5dea64)
@@ -11,6 +11,8 @@ the workflow is written using TS(with Effect). the UI is tempo and Chat
 
 
 ![image](https://github.com/swuecho/chat_effect/assets/666683/91f9a4a5-0a02-4c12-9a8f-7b35d40837cb)
+
+Chat https://github.com/swuecho/chat is the app I develop for converation with LLM. Here it is used as a frontend to display the converstaion. (the converstaion is logged into the database of a local chat app instance)
 
 Tracing server is set up using the docker.zip in https://effect.website/docs/guides/observability/telemetry/tracing
 
