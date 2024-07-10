@@ -1,14 +1,16 @@
 # chat_effect
 
-using `effect` and tracing to do basic LLM. The converstation to LLM is add to `chat` database.
+Basic LLM workflow with tracing and visualization. The converstation to LLM is add to `chat` database.
 
 the workflow is written using TS(with Effect). the UI is tempo and Chat
 
-![image](https://github.com/swuecho/chat_effect/assets/666683/ace73b2e-fed4-4f00-9f3e-b0ab492510e7)
 
-![image](https://github.com/swuecho/chat_effect/assets/666683/6259ec45-f353-406d-a6be-80ed8d2e3df4)
+![image](https://github.com/swuecho/chat_effect/assets/666683/aee981a5-a289-4b51-ae82-be0d1d5dea64)
 
-![image](https://github.com/swuecho/chat_effect/assets/666683/791d83d4-155d-4250-bf3d-6cbf82e06d22)
+![image](https://github.com/swuecho/chat_effect/assets/666683/5c2a78d5-466d-4ace-bc2f-5241caaa6409)
+
+
+![image](https://github.com/swuecho/chat_effect/assets/666683/91f9a4a5-0a02-4c12-9a8f-7b35d40837cb)
 
 Tracing server is set up using the docker.zip in https://effect.website/docs/guides/observability/telemetry/tracing
 
