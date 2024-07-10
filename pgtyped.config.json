@@ -1,0 +1,13 @@
+{
+        "transforms": [
+                {
+                        "mode": "sql",
+                        "include": "**/*.sql",
+                        "emitTemplate": "{{dir}}/{{name}}.queries.ts"
+                }
+        ],
+        "srcDir": "./src/",
+        "failOnError": true,
+        "camelCaseColumnNames": true,
+        "dbUrl": "postgresql://hwu:using555@192.168.0.135:5432/hwu"
+}
