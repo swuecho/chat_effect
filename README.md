@@ -2,7 +2,7 @@
 
 Basic LLM workflow with tracing and visualization. The converstation to LLM is add to `chat` database.
 
-the workflow is written using TS(with Effect). The UI is from Grafana with Tempoz(Traceing part) and Chat (converation display)
+the workflow is written using TS(with Effect). The UI is from Grafana with Tempo(tracing) and Chat (converation display)
 
 
 ![image](https://github.com/swuecho/chat_effect/assets/666683/aee981a5-a289-4b51-ae82-be0d1d5dea64)
